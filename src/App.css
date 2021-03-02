@@ -1,0 +1,16 @@
+body {
+  background-color: thistle;
+}
+h1 {
+  text-align: center;
+  color: aliceblue;
+
+}
+.todo-app {
+  background-color: steelblue;
+  min-height: 500px;
+  width: 800px;
+  margin: 40px auto;
+}
+
+

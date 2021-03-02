@@ -1,0 +1,33 @@
+.list_div {
+    margin: 10px;
+}
+.list {
+    color: antiquewhite;
+    font-weight: bolder;
+    font-size: 18px;
+    list-style: none;
+    margin-top: 20px;
+    display: inline;
+}
+
+.check {
+    width: 20px;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+
+.del {
+    position: absolute;
+    left: 50%;
+    border: none;
+    height: 20px;
+    width: 25px;
+    background-color: transparent;
+}
+
+.late {
+    margin-left: 80px;
+    font-size: 14px;
+    border: 2px solid yellow;
+    display: table;
+}
